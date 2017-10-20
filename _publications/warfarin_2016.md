@@ -1,5 +1,5 @@
 ---
-title: "CSRetrospective study of rFVIIa, 4-factor PCC, and a rFVIIa and 3-factor PCC combination in improving bleeding outcomes in the warfarin and non-warfarin patienty."
+title: "Retrospective study of rFVIIa, 4-factor PCC, and a rFVIIa and 3-factor PCC combination in improving bleeding outcomes in the warfarin and non-warfarin patienty."
 collection: publications
 permalink: /publication/warfarin_2016
 excerpt: '
