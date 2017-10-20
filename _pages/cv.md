@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-for more infomation here is a [link to my full CV](https://github.com/nerdcommander/cv-materials/raw/master/avery_CV_F2017.pdf)
+for more infomation here is a [link to my full CV](https://github.com/nerdcommander/cv-materials/raw/master/avery_CV_F2017.pdf)  
+
 Education
 ======
 * Ph.D. in Molecular and Cell Biology, Division of Genetics and Development, 2002
