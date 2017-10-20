@@ -13,7 +13,7 @@ name                     : &name "brian avery"
 description              : &description "personal description"
 url                      : https://nerdcommander.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nerdcommander/academicpages.github.io"
+repository               : "nerdcommander/nerdcommander.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "brian avery"
-  avatar           : "profile.png"
+  avatar           : "avery.jpg
   bio              : "genetics, neuro, data nerd"
   location         : "SLC, UT"
   employer         : "Westminster College"
