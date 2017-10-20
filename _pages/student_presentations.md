@@ -5,6 +5,7 @@ excerpt: "Student Presentations"
 author_profile: true
 redirect_from: 
 ---
+{% include base_path %}
 
 Authors marked with an asterix (\*) are undergraduates  
 * Winters C\*, Sattler S\*, Avery BJ. Molecular characterization and distribution of Cestode parasites that infect the brine shrimp of Great Salt Lake in Utah. Poster presented at ESA Annual Meeting 2017.
