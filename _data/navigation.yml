@@ -19,5 +19,5 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "md guide"
-    url: /markdown/
+  #- title: "md guide"
+  #  url: /markdown/
