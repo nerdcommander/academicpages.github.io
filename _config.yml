@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "genetics, neuro, data nerd"
   location         : "SLC, UT"
-  employer         :
+  employer         : "Westminster College"
   googlescholar    : "http://scholar.google.com/citations?user=ARjFTQkAAAAJ&hl=en"
   email            :
   uri              :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/bavery/
   orcid            : "http://orcid.org/0000-0003-0611-8141"
   pinterest        :
   soundcloud       :
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Denver # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
