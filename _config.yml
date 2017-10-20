@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "nerdcommander"
 title_separator          : "-"
 name                     : &name "brian avery"
 description              : &description "personal description"
