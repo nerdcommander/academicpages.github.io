@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /student_presentations/
 title: "Student Presentations"
 excerpt: "Student Presentations"
 author_profile: true
