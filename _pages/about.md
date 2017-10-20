@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "brian avery aka the nerdcommander"
+title: "brian avery (a.k.a. the nerdcommander)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
