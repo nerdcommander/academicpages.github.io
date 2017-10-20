@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D. in Molecular and Cell Biology, Division of Genetics and Development 2002
+  * Laboratory of Gerald M. Rubin; University of California, Berkeley, California
+* Bachelor of Science in Biology, Magna Cum Laude
+  * 1993 Tufts University, College of Arts and Sciences, Medford, Massachusetts
 
 Work experience
 ======
