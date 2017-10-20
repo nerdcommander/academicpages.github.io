@@ -1,3 +1,32 @@
+
+Skip to content
+This repository
+
+    Pull requests
+    Issues
+    Marketplace
+    Explore
+
+    @nerdcommander
+
+21
+334
+
+    591
+
+academicpages/academicpages.github.io
+Code
+Issues 10
+Pull requests 2
+Projects 0
+Wiki
+Insights
+academicpages.github.io/_config.yml
+9aec92b on Jul 26
+@staeiou staeiou disable read more links by default
+@staeiou
+@a-paxton
+306 lines (279 sloc) 7.56 KB
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -7,13 +36,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "brian avery"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "brian avery"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://nerdcommander.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nerdcommander/nerdcommander.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,12 +107,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "brian avery"
-  avatar           : "images/profile.png"
-  bio              : "genetics, neuro, data nerd"
-  location         : "SLC, UT"
-  employer         : "Westminster College"
-  googlescholar    : "http://scholar.google.com/citations?user=ARjFTQkAAAAJ&hl=en"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
   bitbucket        :
@@ -92,19 +121,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nerdcommander"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/bavery/
-  orcid            : "http://orcid.org/0000-0003-0611-8141"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "nerdcommanderslc"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -249,7 +278,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Denver # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
