@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-for more infomation here is a [link to my full CV](https://github.com/nerdcommander/cv-materials/raw/master/avery_CV_F2017.pdf)  
+for more infomation here is a [link to my full CV](/files/avery_CV_F2017.pdf)  
 
 Education
 ======
