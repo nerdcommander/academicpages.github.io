@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "brian avery"
-  avatar           : "eye_pic_bw.jpg"
+  avatar           : "images/eye_pic_bw.jpg"
   bio              : "genetics, neuro, data nerd"
   location         : "SLC, UT"
   employer         : "Westminster College"
