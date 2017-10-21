@@ -1,6 +1,6 @@
 ---
 permalink: /student_presentations/
-title: "Student Presentations"
+title: "Recent Student Presentations"
 excerpt: "Student Presentations"
 author_profile: true
 redirect_from: 
